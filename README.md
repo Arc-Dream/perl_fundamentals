@@ -8,6 +8,7 @@
 
 
 **BASH SCRIPT (1):**
+<br>
     Creates some string values, 
 
     Passes them to the script,
@@ -19,12 +20,14 @@
 
  
 **PERL MODULE (2):**
+<br>
     Creates an Object,
 
     With Name and Variables.
 <br>
 
 **PERL SCRIPT (3):**
+<br>
     Receives the sent data,
 
     Explode it with an regex func,
