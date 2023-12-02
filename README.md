@@ -8,13 +8,13 @@
 
 
 **BASH SCRIPT (1):**
-   *Creates some string values,* 
-   
-   *Passes them to the script,*
-   
-   *As STDIN value,*
-   
-   *Through the execution.*
+    *Creates some string values,* 
+    
+    *Passes them to the script,*
+    
+    *As STDIN value,*
+    
+    *Through the execution.*
 
  
 **PERL MODULE (2):**
