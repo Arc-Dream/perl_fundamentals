@@ -5,22 +5,24 @@
 **PERL MODULE -> PERL SCRIPT**
 
 **PERL SCRIPT EXECUTION -> OUTPUT**
-
+<br><br>
 
 **BASH SCRIPT (1):**
- *Creates some string values,* 
- 
- *Passes them to the script,*
- 
- *As STDIN value,*
- 
- *Through the execution.*
+*Creates some string values,* 
 
+*Passes them to the script,*
+
+*As STDIN value,*
+
+*Through the execution.*
+<br><br>
  
 **PERL MODULE (2):**
 *Creates an Object,*
 
 *With Name and Variables.*
+<br><br>
+
 
 **PERL SCRIPT (3):**
 *Receives the sent data,*
