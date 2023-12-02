@@ -37,7 +37,7 @@
 
     Attain the fetched parts,
 
-    To the Perl objec instance,
+    To the Perl object instance,
 
 
     Call the variables
