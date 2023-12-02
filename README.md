@@ -10,7 +10,7 @@
 **BASH SCRIPT (1):**
 <br><br>
 
-Creates some string values, 
+*Creates some string values,* 
 
 Passes them to the script,
 
