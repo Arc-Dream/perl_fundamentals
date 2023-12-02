@@ -10,36 +10,36 @@
 **BASH SCRIPT (1):**
 <br>
 
-    Creates some string values, 
+Creates some string values, 
 
-    Passes them to the script,
+Passes them to the script,
 
-    As STDIN value,
+As STDIN value,
 
-    Through the execution.
+Through the execution.
 <br>
 
  
 **PERL MODULE (2):**
 <br>
 
-    Creates an Object,
+Creates an Object,
 
-    With Name and Variables.
+With Name and Variables.
 <br>
 
 **PERL SCRIPT (3):**
 <br>
 
-    Receives the sent data,
+Receives the sent data,
 
-    Explode it with an regex func,
+Explode it with an regex func,
 
-    Attain the fetched parts,
+Attain the fetched parts,
 
-    To the Perl object instance,
+To the Perl object instance,
 
 
-    Call the variables
+Call the variables
 
-    From the Object Instance.
+From the Object Instance.
