@@ -8,7 +8,7 @@
 
 
 **BASH SCRIPT (1):**
-<br>
+<br><br>
 
 Creates some string values, 
 
@@ -21,7 +21,7 @@ Through the execution.
 
  
 **PERL MODULE (2):**
-<br>
+<br><br>
 
 Creates an Object,
 
@@ -29,7 +29,7 @@ With Name and Variables.
 <br>
 
 **PERL SCRIPT (3):**
-<br>
+<br><br>
 
 Receives the sent data,
 
